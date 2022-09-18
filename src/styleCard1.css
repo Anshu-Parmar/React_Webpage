@@ -1,0 +1,13 @@
+.card1-wrapper {
+    margin: 10px;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    width: 95px;
+    height: 80px;
+    padding: 0 5rem;
+    background-color: #181818;
+    color: #91bed3
+}
